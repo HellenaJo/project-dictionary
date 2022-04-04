@@ -12,8 +12,9 @@ export default function App() {
                 </main>
                 <footer className="App-footer">
                     Coded by {" "}
-                    <a href="mailto:tessehellena@gmail.com">Hellena</a> {" "} and is open-sourced on {" "}
-                    <a href="https://github.com/HellenaJo/dictionary-app" target="_blank" rel="noreferrer"> GitHub</a> .
+                    <a href="mailto:tessehellena@gmail.com">Hellena</a> {" "},is open-sourced on {" "}
+                    <a href="https://github.com/HellenaJo/dictionary-app" target="_blank" rel="noreferrer"> GitHub</a> and hosted on {" "}
+                    <a href="https://timely-meerkat-0d1172.netlify.app/" target="_blank" rel="noreferrer">Netlify </a>.
                 </footer>
             </div>
         </div>
